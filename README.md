@@ -52,7 +52,7 @@
 
     📸 Instagram: @almaflehi.dev
 
-     ![image](https://github.com/user-attachments/assets/d9d3b7d6-6704-4749-83b2-2ea623fb2607)https://www.fiverr.com/users/malmaflehi/
+    🛠️  fiverr:  @malmaflehi
 
 
 
