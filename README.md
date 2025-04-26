@@ -65,6 +65,8 @@
 
     Android Studio
 
+🛠️ Notable Projects
+
     🛒 Procurement Order Tracking System (POTS) - Java, NetBeans, OOP, File Management
 
     📚 Library Management System - MS SQL Server, ERD, Advanced SQL Queries
