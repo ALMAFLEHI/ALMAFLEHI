@@ -19,9 +19,51 @@
     📚 Mission: Craft meaningful technology that empowers people and businesses.
 
 💻 Tech Arsenal:
-🚀 Programming	🛠️ Frameworks/Libraries	🗄️ Databases	⚙️ Tools
-Java, Python, C#, C++, SQL, JavaScript	Flutter, .NET, Tailwind, React(Learning),	Firebase, MS SQL Server, PostgreSQ,L	VS Code, GitHub, Git, Render, Android Studio
-📈 Key Projects:
+🚀 Programming Languages:
+
+    Java
+
+    Python
+
+    C#
+
+    C++
+
+    SQL
+
+    JavaScript
+    
+    HTML/CSS
+
+🛠️ Frameworks / Libraries:
+
+    Flutter
+
+    .NET
+
+    Tailwind CSS(Learning)
+
+    React(Learning)
+
+🗄️ Databases:
+
+    Firebase
+
+    Microsoft SQL Server
+
+    PostgreSQL(Learning)
+
+⚙️ Tools & Platforms:
+
+    Visual Studio Code (VS Code)
+
+    Git & GitHub
+
+    Netlify(Learning)
+
+    Render(Learning)
+
+    Android Studio
 
     🛒 Procurement Order Tracking System (POTS) - Java, NetBeans, OOP, File Management
 
