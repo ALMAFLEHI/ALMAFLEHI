@@ -1,98 +1,57 @@
 👋 Hi, I'm Mohammed Al-Maflehi!
 
-🔹 Second-Year Software Engineering Student at Asia Pacific University (APU)
-🔹 Future Full-Stack Developer | Backend Engineer | Tech Enthusiast
-🔹 Passionate about building real-world, scalable, user-centered solutions
+🔹 Software Engineering Student @ Asia Pacific University (APU)
+🔹 Future Full-Stack Developer | Backend Enthusiast
+🔹 Passionate about building scalable, real-world solutions
+🚀 About Me
 
-🚀 About Me:
+    🎯 Focus: Software Engineering, Web & Mobile Development, Backend Systems
 
-    🎯 Focused on: Software Engineering, Web Development, Backend Systems, Mobile App Development
-
-    👨‍💻 Tech Stack: Java, Python, Flutter, Firebase, SQL Server, HTML5, CSS3, Tailwind, React
+    👨‍💻 Tech Stack: Java, Python, Flutter, Firebase, SQL Server, HTML, CSS, React (Learning)
 
     🌍 Languages: English (Professional), Arabic (Native)
 
-    🧠 Currently Learning: Cloud Integration, DevOps basics, React Advanced Techniques
+    🧠 Learning: Cloud Integration, DevOps Basics
 
-    🔥 Core Values: Innovation, Quality, Growth, Collaboration
+    📚 Mission: Crafting meaningful tech that empowers people
 
-    📚 Mission: Craft meaningful technology that empowers people and businesses.
+💻 Tech Arsenal
 
-💻 Tech Arsenal:
-🚀 Programming Languages:
+    🚀 Programming: Java, Python, C#, C++, SQL, JavaScript, HTML/CSS
 
-    Java
+    🛠️ Frameworks: Flutter, .NET, Tailwind CSS (Learning), React (Learning)
 
-    Python
+    🗄️ Databases: Firebase, Microsoft SQL Server, PostgreSQL (Learning)
 
-    C#
-
-    C++
-
-    SQL
-
-    JavaScript
-    
-    HTML/CSS
-
-🛠️ Frameworks / Libraries:
-
-    Flutter
-
-    .NET
-
-    Tailwind CSS(Learning)
-
-    React(Learning)
-
-🗄️ Databases:
-
-    Firebase
-
-    Microsoft SQL Server
-
-    PostgreSQL(Learning)
-
-⚙️ Tools & Platforms:
-
-    Visual Studio Code (VS Code)
-
-    Git & GitHub
-
-    Netlify(Learning)
-
-    Render(Learning)
-
-    Android Studio
+    ⚙️ Tools: VS Code, GitHub, Netlify (Learning), Render (Learning), Android Studio
 
 🛠️ Notable Projects
 
-    🛒 Procurement Order Tracking System (POTS) - Java, NetBeans, OOP, File Management
+    🛒 POTS – Procurement Tracking System (Java, NetBeans, OOP)
 
-    📚 Library Management System - MS SQL Server, ERD, Advanced SQL Queries
+    📚 Library Management System – MS SQL Server, Advanced SQL Queries
 
-    📅 Planner Management System - Java & File Handling (Upcoming)
+    📅 Planner Management System – Java & File Handling (Upcoming)
 
-    🍔 FoodSwift - Smart Canteen Mobile App (Flutter & Firebase) (Upcoming)
-
+    🍔 FoodSwift – Smart Canteen App (Flutter & Firebase) (Upcoming)
     🔗 Explore more: almaflehidev.com
 
 🌟 Why Work With Me?
 
 ✅ Strong problem-solving mindset
-✅ Focused on clean code, scalability, and real-world usability
-✅ Fast learner & passionate about new tech
-✅ Always deliver with professionalism and responsibility
-📬 Let’s Connect:
+✅ Focused on clean, scalable solutions
+✅ Fast learner & passionate about tech
+✅ Committed to quality and collaboration
+📬 Let’s Connect
 
     📧 Email: almaflehi0@gmail.com
 
-    🌐 Website: almaflehidev.com
+    🌐 Portfolio: almaflehidev.com
 
     💼 LinkedIn: Mohammed Al-Maflehi
 
     📸 Instagram: @almaflehi.dev
 
-✨ Fun Fact:
+✨ Fun Fact
 
-    “Code is the closest thing we have to magic!” 🧙‍♂️✨
+    "Code is the closest thing we have to magic!" 🧙‍♂️✨
