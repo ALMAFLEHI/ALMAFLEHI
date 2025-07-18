@@ -3,6 +3,7 @@
 🔹 Software Engineering Student @ Asia Pacific University (APU)
 🔹 Future Full-Stack Developer | Backend Enthusiast
 🔹 Passionate about building scalable, real-world solutions
+
 🚀 About Me
 
     🎯 Focus: Software Engineering, Web & Mobile Development, Backend Systems
