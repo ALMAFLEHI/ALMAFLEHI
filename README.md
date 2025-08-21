@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammed Al-Maflehi  
 
-🔹 **Full-Stack Web Developer (in progress)**  
+🔹 **Full-Stack Web Developer in Progress**  
 🔹 Strong Core in **Vanilla JavaScript, HTML & CSS**  
-🔹 Passionate about building **scalable, modern web applications**  
+🔹 Passionate about building **modern, scalable web applications**  
 🔹 Software Engineering Student @ Asia Pacific University (APU)  
 
 ---
@@ -10,15 +10,15 @@
 ## 🚀 About Me  
 
 - 🎯 **Focus**: Full-Stack Web Development (Frontend + Backend)  
-- 👨‍💻 **Core Strengths**: Vanilla JavaScript (ES6+), Semantic HTML, Responsive CSS  
-- 💡 **Frontend Growth**: React, Tailwind CSS, Vite (Learning Vue for perspective)  
-- ⚙️ **Backend Growth**: Node.js, Express, SQL/NoSQL Databases  
-- ☁️ **Exploring**: Cloud Integration, DevOps (CI/CD)  
-- 📚 **Mission**: Craft meaningful, user-centric solutions that scale  
+- 👨‍💻 **Core Strengths**: JavaScript (ES6+), Semantic HTML, Responsive CSS  
+- 💡 **Frontend Growth**: React, Tailwind CSS, Vite, Vue (exploring for perspective)  
+- ⚙️ **Backend Growth**: Node.js, Express, Prisma ORM, SQL/NoSQL Databases  
+- ☁️ **Exploring**: Cloud Integration, DevOps (CI/CD), Docker, Serverless  
+- 📚 **Mission**: Build impactful, user-focused solutions that scale  
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 💻 Tech Arsenal  
 
 ### 🔹 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -29,27 +29,41 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 
-### 🔹 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)  
+---
 
-### 🔹 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+## 🎨 Frontend Frameworks & Libraries  
+- **Core**: React  
+- **Full-Stack Framework**: Next.js  
+- **3D & Graphics**: Three.js  
+- **Build Tool**: Vite  
+- **CSS Framework**: Tailwind CSS  
+- **Testing**: Jest (Unit), React Testing Library (Integration), Cypress (E2E)  
 
-### 🔹 Tools & Platforms  
+---
+
+## ⚙️ Backend Frameworks & Libraries (Node.js Ecosystem)  
+- **Runtime**: Node.js  
+- **Web Framework**: Express.js (minimalist) or Fastify (performance-focused)  
+- **ORM**: Prisma  
+- **Authentication**: Next-Auth (Next.js) or Passport.js  
+- **API**: tRPC (TypeScript-first) or GraphQL (Apollo Server)  
+
+---
+
+## ☁️ Deployment & Infrastructure  
+- **Platforms**: Vercel (frontend/Next.js), Netlify, Railway (backend)  
+- **Containers**: Docker  
+- **Serverless**: AWS Lambda / Vercel Functions  
+
+---
+
+## 🛠️ Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
 
 ---
 
@@ -77,9 +91,9 @@
 ## 🌟 Why Work With Me?  
 
 ✅ Strong foundation in **vanilla JS, HTML, and CSS** (can build without frameworks)  
-✅ Solid problem-solving mindset & clean coding principles  
-✅ Fast learner, motivated to master **React + Next.js + modern backend**  
-✅ Committed to collaboration, scalability, and quality  
+✅ Building skills in **React, Next.js, Tailwind, Node.js, and modern backend tools**  
+✅ Focused on clean, scalable, and collaborative solutions  
+✅ Fast learner, always improving through real-world projects  
 
 ---
 
