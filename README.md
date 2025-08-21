@@ -1,62 +1,99 @@
 👋 Hi, I'm Mohammed Al-Maflehi!
-
 🔹 Software Engineering Student @ Asia Pacific University (APU)
-🔹 Future Full-Stack Developer | Backend Enthusiast
-🔹 Passionate about building scalable, real-world solutions
+🔹 T-Shaped Developer | Full-Stack Focus with Backend Interest
+🔹 Passionate about building scalable, practical solutions
 
-🚀 About Me
+🧠 My Development Approach
+🚀 Core Technical Skills
+JavaScript/TypeScript Focus
 
-    🎯 Focus: Software Engineering, Web & Mobile Development, Backend Systems
+Frontend Development:
 
-    👨‍💻 Tech Stack: Java, Python, Flutter, Firebase, SQL Server, HTML, CSS, React (Learning)
+Solid understanding of Vanilla JS DOM manipulation
 
-    🌍 Languages: English (Professional), Arabic (Native)
+Experience with React ecosystem and component-based architecture
 
-    🧠 Learning: Cloud Integration, DevOps Basics
+State management using Context API and modern patterns
 
-    📚 Mission: Crafting meaningful tech that empowers people
+CSS with Tailwind and responsive design principles
 
-💻 Tech Arsenal
+Backend Development:
 
-    🚀 Programming: Java, Python, C#, C++, SQL, JavaScript, HTML/CSS
+Node.js with Express for API development
 
-    🛠️ Frameworks: Flutter, .NET, Tailwind CSS (Learning), React (Learning)
+Database experience with PostgreSQL and MongoDB
 
-    🗄️ Databases: Firebase, Microsoft SQL Server, PostgreSQL (Learning)
+RESTful API design and implementation
 
-    ⚙️ Tools: VS Code, GitHub, Netlify (Learning), Render (Learning), Android Studio
+Basic understanding of authentication and security practices
 
-🛠️ Notable Projects
+Tools & Infrastructure:
 
-    🛒 POTS – Procurement Tracking System (Java, NetBeans, OOP)
+Version control with GitHub
 
-    📚 Library Management System – MS SQL Server, Advanced SQL Queries
+Basic CI/CD understanding with GitHub Actions
 
-    📅 Planner Management System – Java & File Handling (Upcoming)
+Experience with cloud platforms like Vercel and Netlify
 
-    🍔 FoodSwift – Smart Canteen App (Flutter & Firebase) (Upcoming)
-    🔗 Explore more: almaflehidev.com
+Learning containerization with Docker
 
-🌟 Why Work With Me?
+🌐 Broad Technical Knowledge
+Web Fundamentals: HTML5, CSS3, JavaScript ES6+
 
-✅ Strong problem-solving mindset
-✅ Focused on clean, scalable solutions
-✅ Fast learner & passionate about tech
-✅ Committed to quality and collaboration
-📬 Let’s Connect
+Performance Awareness: Understanding of Core Web Vitals and optimization techniques
 
-    📧 Email: almaflehi0@gmail.com
+Testing Practices: Experience with unit testing and test-driven development
 
-    🌐 Portfolio: almaflehidev.com
+Learning Interest: Web3 concepts and AI integration possibilities
 
-    💼 LinkedIn: Mohammed Al-Maflehi
+Database Knowledge: Both relational and non-relational database experience
 
-    📸 Instagram: @almaflehi.dev
+⚡ Professional Strengths
+Problem-Solving Mindset: Analytical approach to debugging and development
 
-    🛠️  fiverr:  @malmaflehi
+Clean Code Practices: Focus on maintainable and readable code
 
+Learning Agility: Quick to adapt and learn new technologies as needed
 
+Collaborative Spirit: Team-oriented development approach
+
+Practical Thinking: Balance between technical excellence and business needs
+
+🛠️ Technical Toolkit
+Category	Technologies & Tools
+Languages	JavaScript, Python, Java, SQL, HTML/CSS
+Frameworks/Libraries	React, Express, Node.js, Flutter
+Databases	PostgreSQL, MongoDB, Firebase, SQL Server
+Tools & Platforms	VS Code, GitHub, Docker, Vercel, Netlify
+Areas of Interest	AI Integration, Cloud Services, System Design
+🧪 Projects & Experience
+🛒 POTS – Procurement Tracking System (Java, OOP principles)
+
+📚 Library Management System – Database design with complex queries
+
+📅 Planner Management System – Full-stack application development
+
+🍔 FoodSwift – Mobile canteen app (Flutter & Firebase)
+
+🌐 Personal Portfolio – Responsive web design with modern CSS
+
+🔗 Explore more: almaflehidev.com
+
+🌟 What I Bring
+✅ Solid foundation in software engineering principles
+✅ Practical problem-solving skills for real-world challenges
+✅ Adaptive learning ability to grow with technology needs
+✅ Quality-focused development with attention to detail
+✅ Team collaboration and clear communication skills
+
+📬 Let's Connect
+📧 Email: almaflehi0@gmail.com
+
+🌐 Portfolio: almaflehidev.com
+
+💼 LinkedIn: Mohammed Al-Maflehi
+
+📸 Instagram: @almaflehi.dev
 
 ✨ Fun Fact
-
-    "Code is the closest thing we have to magic!" 🧙‍♂️✨
+"I believe code is the closest thing we have to magic – turning ideas into reality through logic and creativity!" 🧙‍♂️✨
