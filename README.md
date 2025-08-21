@@ -1,62 +1,79 @@
 👋 Hi, I'm Mohammed Al-Maflehi!
 
+🔹 Full-Stack Web Developer in Progress | Strong Core in Vanilla JavaScript, HTML & CSS
+🔹 Passionate about building scalable, modern web applications
 🔹 Software Engineering Student @ Asia Pacific University (APU)
-🔹 Future Full-Stack Developer | Backend Enthusiast
-🔹 Passionate about building scalable, real-world solutions
 
 🚀 About Me
 
-    🎯 Focus: Software Engineering, Web & Mobile Development, Backend Systems
+🎯 Focus: Full-Stack Web Development (Frontend + Backend)
 
-    👨‍💻 Tech Stack: Java, Python, Flutter, Firebase, SQL Server, HTML, CSS, React (Learning)
+👨‍💻 Core Strengths: JavaScript (Vanilla, ES6+), Semantic HTML, Responsive CSS
 
-    🌍 Languages: English (Professional), Arabic (Native)
+💡 Frontend Growth: React, Tailwind CSS, Vite (Learning Vue for wider perspective)
 
-    🧠 Learning: Cloud Integration, DevOps Basics
+⚙️ Backend Growth: Node.js, Express, SQL/NoSQL Databases
 
-    📚 Mission: Crafting meaningful tech that empowers people
+☁️ Exploring: Cloud Integration, DevOps Basics (CI/CD)
+
+📚 Mission: Build impactful, user-centric solutions that scale
 
 💻 Tech Arsenal
+🔹 Frontend
 
-    🚀 Programming: Java, Python, C#, C++, SQL, JavaScript, HTML/CSS
+Languages & Core Skills: HTML5, CSS3 (Flexbox, Grid, Responsive Design), Vanilla JS (DOM, Events, Async)
 
-    🛠️ Frameworks: Flutter, .NET, Tailwind CSS (Learning), React (Learning)
+Frameworks & Tools: React, Tailwind CSS, Vite (Learning Vue), Next.js (future goal)
 
-    🗄️ Databases: Firebase, Microsoft SQL Server, PostgreSQL (Learning)
+🔹 Backend
 
-    ⚙️ Tools: VS Code, GitHub, Netlify (Learning), Render (Learning), Android Studio
+Languages: JavaScript (Node.js), Java, Python, C#, C++
+
+Frameworks & Tools: Express.js, .NET (Basics)
+
+Databases: PostgreSQL (Learning), Firebase, Microsoft SQL Server, MongoDB (Learning)
+
+🔹 Tools & Platforms
+
+Git & GitHub | VS Code | Netlify | Vercel | Render | Android Studio
 
 🛠️ Notable Projects
 
-    🛒 POTS – Procurement Tracking System (Java, NetBeans, OOP)
+🛒 POTS – Procurement Tracking System
+Java (OOP), NetBeans
 
-    📚 Library Management System – MS SQL Server, Advanced SQL Queries
+📚 Library Management System
+Advanced SQL Queries + MS SQL Server
 
-    📅 Planner Management System – Java & File Handling (Upcoming)
+🗓️ Planner Management System (Upcoming)
+Java + File Handling
 
-    🍔 FoodSwift – Smart Canteen App (Flutter & Firebase) (Upcoming)
-    🔗 Explore more: almaflehidev.com
+🍔 FoodSwift – Smart Canteen App (Upcoming)
+Flutter + Firebase
+
+🌐 Web Clones & Vanilla Projects (In Progress)
+Practicing pixel-perfect UI/UX with HTML, CSS, JS before scaling into React + Next.js
+
+🔗 Explore more projects: almaflehidev.com
 
 🌟 Why Work With Me?
 
-✅ Strong problem-solving mindset
-✅ Focused on clean, scalable solutions
-✅ Fast learner & passionate about tech
-✅ Committed to quality and collaboration
+✅ Strong foundation in vanilla JS, HTML, and CSS (can build without frameworks)
+✅ Solid problem-solving mindset & clean coding principles
+✅ Fast learner, motivated to master React + Next.js + modern backend
+✅ Committed to collaboration, scalability, and quality
+
 📬 Let’s Connect
 
-    📧 Email: almaflehi0@gmail.com
+📧 Email: almaflehi0@gmail.com
 
-    🌐 Portfolio: almaflehidev.com
+🌐 Portfolio: almaflehidev.com
 
-    💼 LinkedIn: Mohammed Al-Maflehi
+💼 LinkedIn: Mohammed Al-Maflehi
 
-    📸 Instagram: @almaflehi.dev
+📸 Instagram: @almaflehi.dev
 
-    🛠️  fiverr:  @malmaflehi
-
-
+🛠️ Fiverr: @malmaflehi
 
 ✨ Fun Fact
-
-    "Code is the closest thing we have to magic!" 🧙‍♂️✨
+"Code is the closest thing we have to magic — and the web is my spellbook!" 🧙‍♂️✨
