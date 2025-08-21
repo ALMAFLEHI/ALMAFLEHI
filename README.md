@@ -32,21 +32,21 @@
 ---
 
 ## 🎨 Frontend Frameworks & Libraries  
-- **Core**: React  
-- **Full-Stack Framework**: Next.js  
-- **3D & Graphics**: Three.js  
-- **Build Tool**: Vite  
-- **CSS Framework**: Tailwind CSS  
+- **Core**: React  (Learning)
+- **Full-Stack Framework**: Next.js  (Learning)
+- **3D & Graphics**: Three.js  (Learning)
+- **Build Tool**: Vite  (Learning)
+- **CSS Framework**: Tailwind CSS  (Learning)
 - **Testing**: Jest (Unit), React Testing Library (Integration), Cypress (E2E)  
 
 ---
 
 ## ⚙️ Backend Frameworks & Libraries (Node.js Ecosystem)  
 - **Runtime**: Node.js  
-- **Web Framework**: Express.js (minimalist) or Fastify (performance-focused)  
-- **ORM**: Prisma  
-- **Authentication**: Next-Auth (Next.js) or Passport.js  
-- **API**: tRPC (TypeScript-first) or GraphQL (Apollo Server)  
+- **Web Framework**: Express.js (minimalist) or Fastify (performance-focused)  (Learning)
+- **ORM**: Prisma  (Learning)
+- **Authentication**: Next-Auth (Next.js) or Passport.js  (Learning)
+- **API**: tRPC (TypeScript-first) or GraphQL (Apollo Server)  (Learning)
 
 ---
 
