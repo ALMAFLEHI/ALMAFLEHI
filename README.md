@@ -69,20 +69,9 @@
 
 ## 🛠️ Notable Projects  
 
-- 🛒 **POTS – Procurement Tracking System**  
-   Java (OOP), NetBeans  
-
-- 📚 **Library Management System**  
-   Advanced SQL Queries + MS SQL Server  
-
-- 🗓️ **Planner Management System (Upcoming)**  
-   Java + File Handling  
-
 - 🍔 **FoodSwift – Smart Canteen App (Upcoming)**  
    Flutter + Firebase  
 
-- 🌐 **Web Clones & Vanilla Projects (In Progress)**  
-   Practicing pixel-perfect UI/UX with **HTML, CSS, JS** before scaling into React + Next.js  
 
 🔗 Explore more projects: **[almaflehidev.com](https://almaflehidev.com)**  
 
