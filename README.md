@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Al-Maflehi  
+#  Hi, I'm Mohammed Al-Maflehi  
 
 🔹 **Full-Stack Web Developer in Progress**  
 🔹 Strong Core in **Vanilla JavaScript, HTML & CSS**  
@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-- 🎯 **Focus**: Full-Stack Web Development (Frontend + Backend)  
-- 👨‍💻 **Core Strengths**: JavaScript (ES6+), Semantic HTML, Responsive CSS  
-- 💡 **Frontend Growth**: React, Tailwind CSS, Vite, Vue (exploring for perspective)  
-- ⚙️ **Backend Growth**: Node.js, Express, Prisma ORM, SQL/NoSQL Databases  
-- ☁️ **Exploring**: Cloud Integration, DevOps (CI/CD), Docker, Serverless  
-- 📚 **Mission**: Build impactful, user-focused solutions that scale  
+-  **Focus**: Full-Stack Web Development (Frontend + Backend)  
+-  **Core Strengths**: JavaScript (ES6+), Semantic HTML, Responsive CSS  
+-  **Frontend Growth**: React, Tailwind CSS, Vite, Vue (exploring for perspective)  
+-  **Backend Growth**: Node.js, Express, Prisma ORM, SQL/NoSQL Databases  
+-  **Exploring**: Cloud Integration, DevOps (CI/CD), Docker, Serverless  
+-  **Mission**: Build impactful, user-focused solutions that scale  
 
 ---
 
-## 💻 Tech Arsenal  
+##  Tech Arsenal  
 
 ### 🔹 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🎨 Frontend Frameworks & Libraries  
+##  Frontend Frameworks & Libraries  
 - **Core**: React  (Learning)
 - **Full-Stack Framework**: Next.js  (Learning)
 - **3D & Graphics**: Three.js  (Learning)
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚙️ Backend Frameworks & Libraries (Node.js Ecosystem)  
+##  Backend Frameworks & Libraries (Node.js Ecosystem)  
 - **Runtime**: Node.js  
 - **Web Framework**: Express.js (minimalist) or Fastify (performance-focused)  (Learning)
 - **ORM**: Prisma  (Learning)
@@ -50,14 +50,14 @@
 
 ---
 
-## ☁️ Deployment & Infrastructure  
+##  Deployment & Infrastructure  
 - **Platforms**: Vercel (frontend/Next.js), Netlify, Railway (backend)  
 - **Containers**: Docker  
 - **Serverless**: AWS Lambda / Vercel Functions  
 
 ---
 
-## 🛠️ Other Tools  
+##  Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
@@ -67,10 +67,9 @@
 
 ---
 
-## 🛠️ Notable Projects  
+##  Notable Projects  
 
-- 🍔 **FoodSwift – Smart Canteen App (Upcoming)**  
-   Flutter + Firebase  
+
 
 
 🔗 Explore more projects: **[almaflehidev.com](https://almaflehidev.com)**  
@@ -88,13 +87,13 @@
 
 ## 📬 Let’s Connect  
 
-📧 **Email**: almaflehi0@gmail.com  
-🌐 **Portfolio**: [almaflehidev.com](https://almaflehidev.com)  
-💼 **LinkedIn**: Mohammed Al-Maflehi  
-📸 **Instagram**: [@almaflehi.dev](https://instagram.com/almaflehi.dev)  
-🛠️ **Fiverr**: [@malmaflehi](https://fiverr.com/malmaflehi)  
+ **Email**: almaflehi0@gmail.com  
+ **Portfolio**: [almaflehidev.com](https://almaflehidev.com)  
+ **LinkedIn**: Mohammed Al-Maflehi  
+ **Instagram**: [@almaflehi.dev](https://instagram.com/almaflehi.dev)  
+ **Fiverr**: [@malmaflehi](https://fiverr.com/malmaflehi)  
 
 ---
 
-✨ **Fun Fact**  
+ **Fun Fact**  
 *"Code is the closest thing we have to magic — and the web is my spellbook!"* 🧙‍♂️✨  
