@@ -1,9 +1,9 @@
 #  Hi, I'm Mohammed Al-Maflehi  
 
-🔹 **Full-Stack Web Developer in Progress**  
+🔹 **Full-Stack Web Developer**  
 🔹 Strong Core in **Vanilla JavaScript, HTML & CSS**  
 🔹 Passionate about building **modern, scalable web applications**  
-🔹 Software Engineering Student @ Asia Pacific University (APU)  
+🔹 Software Engineering @ Asia Pacific University (APU)  
 
 ---
 
