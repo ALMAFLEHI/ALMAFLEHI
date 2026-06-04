@@ -32,11 +32,11 @@
 ---
 
 ##  Frontend Frameworks & Libraries  
-- **Core**: React  (Learning)
-- **Full-Stack Framework**: Next.js  (Learning)
+- **Core**: React 
+- **Full-Stack Framework**: Next.js  
 - **3D & Graphics**: Three.js  (Learning)
-- **Build Tool**: Vite  (Learning)
-- **CSS Framework**: Tailwind CSS  (Learning)
+- **Build Tool**: Vite  
+- **CSS Framework**: Tailwind CSS  
 - **Testing**: Jest (Unit), React Testing Library (Integration), Cypress (E2E)  
 
 ---
