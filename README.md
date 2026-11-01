@@ -1,99 +1,123 @@
-#  Hi, I'm Mohammed Al-Maflehi  
+<p align="center">
+  <a href="https://www.almaflehidev.com/">
+    <img src="assets/mohammed-almaflehi-banner.jpg" alt="Mohammed Al-Maflehi - almaflehidev.com" width="100%" />
+  </a>
+</p>
 
-🔹 **Full-Stack Web Developer**  
-🔹 Strong Core in **Vanilla JavaScript, HTML & CSS**  
-🔹 Passionate about building **modern, scalable web applications**  
-🔹 Software Engineering @ Asia Pacific University (APU)  
+<div align="center">
 
----
+### Software Engineer · Cloud Systems · Applied AI
 
-##  About Me  
+**From thoughtful interfaces to deployed systems. From camera frames to on-device intelligence.**
 
--  **Focus**: Full-Stack Web Development (Frontend + Backend)  
--  **Core Strengths**: JavaScript (ES6+), Semantic HTML, Responsive CSS  
--  **Frontend Growth**: React, Tailwind CSS, Vite, Vue (exploring for perspective)  
--  **Backend Growth**: Node.js, Express, Prisma ORM, SQL/NoSQL Databases  
--  **Exploring**: Cloud Integration, DevOps (CI/CD), Docker, Serverless  
--  **Mission**: Build impactful, user-focused solutions that scale  
+<p><a href="https://www.almaflehidev.com/"><strong>Portfolio</strong></a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/mohammed-al-maflehi-926a28330/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp; <a href="mailto:almaflehi0@gmail.com"><strong>Email</strong></a> &nbsp; / &nbsp; <a href="#selected-work"><strong>Projects</strong></a></p>
 
----
+</div>
 
-##  Tech Arsenal  
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/engineering-flow-mobile.png" />
+  <source media="(max-width: 600px)" srcset="assets/engineering-flow-mobile.gif" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/engineering-flow.png" />
+  <img src="assets/engineering-flow.gif" alt="My engineering approach: design with purpose, build end to end, validate with evidence, and deploy with care." width="100%" />
+</picture>
 
-### 🔹 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+## A Little About Me
 
----
+I'm **Mohammed Abdulsalam Almaflehi**, a Software Engineering graduate from **Asia Pacific University of Technology & Innovation**, based in Malaysia. I build full-stack applications, AWS-backed systems, and privacy-preserving mobile AI experiences.
 
-##  Frontend Frameworks & Libraries  
-- **Core**: React 
-- **Full-Stack Framework**: Next.js  
-- **3D & Graphics**: Three.js  (Learning)
-- **Build Tool**: Vite  
-- **CSS Framework**: Tailwind CSS  
-- **Testing**: Jest (Unit), React Testing Library (Integration), Cypress (E2E)  
+I care about the work behind the interface: clear architecture, access boundaries, dependable data flows, reproducible evaluation, and tests that support the claims. My projects cover the full path from a user need to a working, documented system.
 
----
+**Open to software engineering, full-stack, cloud, and applied AI opportunities.**
 
-##  Backend Frameworks & Libraries (Node.js Ecosystem)  
-- **Runtime**: Node.js  
-- **Web Framework**: Express.js (minimalist) or Fastify (performance-focused)  (Learning)
-- **ORM**: Prisma  (Learning)
-- **Authentication**: Next-Auth (Next.js) or Passport.js  (Learning)
-- **API**: tRPC (TypeScript-first) or GraphQL (Apollo Server)  (Learning)
+## Selected Work
 
----
+### 01 / PropCare Cloud
 
-##  Deployment & Infrastructure  
-- **Platforms**: Vercel (frontend/Next.js), Netlify, Railway (backend)  
-- **Containers**: Docker  
-- **Serverless**: AWS Lambda / Vercel Functions  
+**Full-stack product engineering meets event-driven AWS infrastructure.**
+
+<a href="https://github.com/ALMAFLEHI/PropCareCloud">
+  <img src="assets/propcare-cloud-dashboard.png" alt="PropCare Cloud's deployed Admin / Owner dashboard with portfolio metrics, maintenance requests, and backend health status using demo data." width="100%" />
+</a>
+
+A multi-role property maintenance platform connecting owners, managers, tenants, and maintenance teams, from tenant registration and approval to work orders, private attachments, and notifications.
+
+- **End-to-end implementation:** React and TypeScript frontend, ASP.NET Core APIs, Entity Framework Core, and PostgreSQL.
+- **Access and privacy:** JWT authentication, backend-enforced RBAC, tenant-data isolation, and authorised, short-lived S3 attachment URLs.
+- **Cloud architecture:** S3 frontend, Elastic Beanstalk backend, RDS database, API Gateway and Lambda, SNS/SQS messaging, CloudWatch, and X-Ray.
+- **Engineering evidence:** **127 passing backend xUnit tests** recorded in the repository's validation results.
+
+<sub>Academic team assignment. I was the sole developer responsible for the frontend, backend, database, AWS integration, deployment tooling, and testing.</sub>
+
+**[Explore the repository](https://github.com/ALMAFLEHI/PropCareCloud)** &nbsp; · &nbsp; **[Architecture](https://github.com/ALMAFLEHI/PropCareCloud#cloud-architecture)** &nbsp; · &nbsp; **[Validation evidence](https://github.com/ALMAFLEHI/PropCareCloud#verified-engineering-results)**
 
 ---
 
-##  Other Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+### 02 / SignSync
+
+**On-device intelligence. Human confirmation. Privacy by design.**
+
+<p align="center">
+  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-home.png" alt="SignSync home: offline processing with no video upload." width="28%" /></a>
+  &nbsp;
+  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-confirm-intent.png" alt="The customer confirms a recognised banking intent or retries." width="28%" /></a>
+  &nbsp;
+  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-select-request.png" alt="The customer selects the exact request after confirming the banking topic." width="28%" /></a>
+</p>
+
+My Final Year Project: an Android application that recognises **40 isolated ASL banking intents** and turns a confirmed intent into a clear, banker-readable service request.
+
+- **Mobile + native pipeline:** Flutter and Dart, Kotlin and CameraX, MediaPipe hand landmarks, and a TensorFlow Lite classifier.
+- **Local by design:** Camera frames and model inference stay on the phone. Confidence-based retry and customer confirmation keep the user in control.
+- **Measured performance:** **95.50% held-out accuracy** and **95.42% macro F1** on 200 test samples.
+- **Validation record:** **108 Flutter tests** and **92 Python tests passed** in release validation.
+
+**[Explore the repository](https://github.com/ALMAFLEHI/SignSync)** &nbsp; · &nbsp; **[Architecture](https://github.com/ALMAFLEHI/SignSync#system-architecture)** &nbsp; · &nbsp; **[Evaluation](https://github.com/ALMAFLEHI/SignSync#evaluation)**
+
+<sub>Research scope: isolated banking intents, one primary participant, and one phone capture environment. Not continuous ASL translation, a production banking system, or a claim of broad real-world recognition accuracy.</sub>
+
+## Tools I Use to Build
+
+| Area | Technologies and practical experience |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, C#, Python, Java, Dart, Kotlin, SQL |
+| **Web & backend** | React, HTML, CSS, Tailwind CSS, ASP.NET Core, Entity Framework Core, REST APIs, Jakarta Servlets / JSP |
+| **Mobile & applied AI** | Flutter, Android CameraX, TensorFlow / TensorFlow Lite, MediaPipe, model evaluation, on-device inference |
+| **Cloud & data** | AWS S3, Elastic Beanstalk, RDS, API Gateway, Lambda, SNS, SQS, CloudWatch, X-Ray; PostgreSQL, MySQL |
+| **Quality & delivery** | xUnit, Flutter tests, Python tests, Postman, functional / regression testing, UAT, Git, GitHub, Agile / Jira |
+
+## Beyond the Flagships
+
+**[Course Recovery System](https://github.com/ALMAFLEHI/CourseRecoverySystem)** · Java / Jakarta EE / MySQL<br />
+Academic eligibility, recovery planning, progress tracking, reporting, and audit workflows.
+
+**[FoodSwift](https://github.com/ALMAFLEHI/FoodSwift)** · Flutter / Dart / Firebase<br />
+Campus canteen ordering with student, staff, and admin workflows.
+
+**[Developer Portfolio](https://www.almaflehidev.com/)** · Web / UI / Personal brand<br />
+A closer look at my background, projects, and engineering journey.
+
+## Experience & Foundations
+
+**Product Development & Testing Intern · LeProfile Digital Services**<br />
+July - November 2025 · Selangor, Malaysia
+
+Functional, regression, exploratory, and integration testing; REST API validation with Postman; reproducible defect reports; usability and compatibility checks; and release-readiness / UAT support.
+
+**BSc (Hons) Software Engineering · Asia Pacific University**<br />
+2023 - 2026 · Kuala Lumpur, Malaysia
+
+Additional training in **Google Agile Project Management**, **Meta Version Control**, and **Agile with Atlassian Jira**. Arabic native speaker; professional English proficiency.
 
 ---
 
-##  Notable Projects  
+<div align="center">
 
+### Let's Build Something Worth Using
 
+Practical products. Clear architecture. Honest evidence.
 
+**[Visit My Portfolio](https://www.almaflehidev.com/)** &nbsp; · &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/mohammed-al-maflehi-926a28330/)** &nbsp; · &nbsp; **[Get in Touch](mailto:almaflehi0@gmail.com)**
 
-🔗 Explore more projects: **[almaflehidev.com](https://almaflehidev.com)**  
+<sub>Project metrics above are documented validation snapshots, not live counters. Screenshots show the actual applications; project repositories contain the detailed scope, evidence, and limitations.</sub>
 
----
-
-## 🌟 Why Work With Me?  
-
-✅ Strong foundation in **vanilla JS, HTML, and CSS** (can build without frameworks)  
-✅ Building skills in **React, Next.js, Tailwind, Node.js, and modern backend tools**  
-✅ Focused on clean, scalable, and collaborative solutions  
-✅ Fast learner, always improving through real-world projects  
-
----
-
-## 📬 Let’s Connect  
-
- **Email**: almaflehi0@gmail.com  
- **Portfolio**: [almaflehidev.com](https://almaflehidev.com)  
- **LinkedIn**: Mohammed Al-Maflehi  
- **Instagram**: [@almaflehi.dev](https://instagram.com/almaflehi.dev)  
- **Fiverr**: [@malmaflehi](https://fiverr.com/malmaflehi)  
-
----
-
- **Fun Fact**  
-*"Code is the closest thing we have to magic — and the web is my spellbook!"* 🧙‍♂️✨  
+</div>
