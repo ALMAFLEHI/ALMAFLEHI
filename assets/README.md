@@ -1,7 +1,7 @@
 # Profile Media
 
 - `mohammed-almaflehi-banner.jpg`: supplied by Mohammed Almaflehi, copied without modification.
-- `propcare-cloud-dashboard.png`: the original public demo-data screenshot from [PropCareCloud](https://github.com/ALMAFLEHI/PropCareCloud/blob/task2/docs/sprints/screenshots/sprint_13_live_dashboard_admin.png).
+- `propcare-cloud-dashboard.png`: the PropCare Cloud home-page screenshot supplied by Mohammed Almaflehi, copied without modification; the existing asset filename is retained.
 - `signsync-home.png`: the original Android home screenshot from [SignSync](https://github.com/ALMAFLEHI/SignSync/blob/main/assets/readme/01-home.png).
 - `signsync-confirm-intent.png`: the original customer-confirmation screenshot from [SignSync](https://github.com/ALMAFLEHI/SignSync/blob/main/assets/readme/02-confirm-intent.png).
 - `signsync-select-request.png`: the original request-selection screenshot from [SignSync](https://github.com/ALMAFLEHI/SignSync/blob/main/assets/readme/03-select-request.png).

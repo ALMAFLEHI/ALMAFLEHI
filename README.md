@@ -36,7 +36,7 @@ I care about the work behind the interface: clear architecture, access boundarie
 **Full-stack product engineering meets event-driven AWS infrastructure.**
 
 <a href="https://github.com/ALMAFLEHI/PropCareCloud">
-  <img src="assets/propcare-cloud-dashboard.png" alt="PropCare Cloud's deployed Admin / Owner dashboard with portfolio metrics, maintenance requests, and backend health status using demo data." width="100%" />
+  <img src="assets/propcare-cloud-dashboard.png" alt="PropCare Cloud home page with tenant access, sign-in links, and a maintenance portal preview." width="100%" />
 </a>
 
 A multi-role property maintenance platform connecting owners, managers, tenants, and maintenance teams, from tenant registration and approval to work orders, private attachments, and notifications.
