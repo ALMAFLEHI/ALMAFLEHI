@@ -59,9 +59,9 @@ A multi-role property maintenance platform connecting owners, managers, tenants,
 <p align="center">
   <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-home.png" alt="SignSync home: offline processing with no video upload." width="28%" /></a>
   &nbsp;
-  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-confirm-intent.png" alt="The customer confirms a recognised banking intent or retries." width="28%" /></a>
+  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-camera-detection.png" alt="Banking interaction camera screen with recognition progress and capture controls." width="28%" /></a>
   &nbsp;
-  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-select-request.png" alt="The customer selects the exact request after confirming the banking topic." width="28%" /></a>
+  <a href="https://github.com/ALMAFLEHI/SignSync"><img src="assets/signsync-confirm-intent.png" alt="The customer confirms a recognised banking intent or retries." width="28%" /></a>
 </p>
 
 My Final Year Project: an Android application that recognises **40 isolated ASL banking intents** and turns a confirmed intent into a clear, banker-readable service request.
